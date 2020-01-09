@@ -1006,11 +1006,11 @@ ol {
 
 .footer-section {
 	background: #282828;
-	padding-top: 60px;
+	padding-top: 30px;
 }
 
 .footer-logo {
-	padding-bottom: 60px;
+	padding-bottom: 10px;
 }
 
 .footer-widget {
@@ -1031,7 +1031,7 @@ ol {
 }
 
 .footer-widget.about-widget p {
-	margin-bottom: 50px;
+	margin-bottom: 10px;
 	letter-spacing: -0.01em;
 }
 
@@ -1051,7 +1051,7 @@ ol {
 	padding-left: 20px;
 	font-size: 14px;
 	color: #8f8f8f;
-	margin-bottom: 6px;
+	/* margin-bottom: 6px; */
 }
 
 .footer-widget ul li a:after {
@@ -1061,7 +1061,7 @@ ol {
 	height: 5px;
 	left: 0;
 	top: 8px;
-	border: 1px solid #ec105a;
+	/* border: 1px solid #ec105a; */
 	border-radius: 50%;
 	-webkit-transition: all 0.2s;
 	-o-transition: all 0.2s;
