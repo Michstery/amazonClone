@@ -1019,15 +1019,16 @@ ol {
 }
 
 .footer-widget h2 {
-	font-size: 18px;
+	font-size: 10px;
 	font-weight: 700;
 	text-transform: uppercase;
 	color: #fff;
-	margin-bottom: 45px;
+	margin-bottom: 4px;
 }
 
 .footer-widget p {
 	color: #8f8f8f;
+	font-size:10px;
 }
 
 .footer-widget.about-widget p {
